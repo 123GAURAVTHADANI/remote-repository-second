@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Gaurav Thadani",
+    "email": "gaurav@example.com",
+    "age": 28,
+    "role": "developer",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "Rahul Sharma",
+    "email": "rahul@example.com",
+    "age": 30,
+    "role": "designer",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "name": "Priya Mehta",
+    "email": "priya@example.com",
+    "age": 26,
+    "role": "developer",
+    "isActive": false
+  },
+  {
+    "id": 4,
+    "name": "Amit Patel",
+    "email": "amit@example.com",
+    "age": 32,
+    "role": "manager",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "name": "Sneha Kapoor",
+    "email": "sneha@example.com",
+    "age": 27,
+    "role": "tester",
+    "isActive": true
+  }
+]
